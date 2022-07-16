@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yatooimh/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zhangyue.zhang.fdu@gmail.com)
 
-Welcome to my Github page! I am Zhang Zhangyue and I am currently finishing my Information Security Bachelor degree at the university of Granada!  
+Welcome to my Github page! I am Zhang Zhangyue and I am currently finishing my Information Security Bachelor degree at Fudan University!  
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
