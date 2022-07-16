@@ -31,7 +31,7 @@ Welcome to my Github page! I am Zhang Zhangyue and I am currently finishing my I
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="10%" src="https://www.amrutsoftware.com/wp-content/uploads/2021/07/logo_JetBrains_v3.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
