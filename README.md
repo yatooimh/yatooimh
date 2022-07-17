@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Zhang Zhangyue and I am currently finishing my Information Security Bachelor degree at Fudan University!  
 
-<img align="right" alt="img" src="https://github.com/yatooimh/yatooimh/blob/main/cover_image.jpg" width="20%" height="auto" />
+<img align="right" alt="img" src="https://github.com/yatooimh/yatooimh/blob/main/cover_image.jpg" width="40%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
