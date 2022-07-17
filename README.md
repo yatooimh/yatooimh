@@ -2,7 +2,7 @@
 ### This is Zhang Zhangyue!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yatooimh)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yatooimh/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhangyue-zhang-22287a245/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zhangyue.zhang.fdu@gmail.com)
 
 Welcome to my Github page! I am Zhang Zhangyue and I am currently finishing my Information Security Bachelor degree at Fudan University!  
