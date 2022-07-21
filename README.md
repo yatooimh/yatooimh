@@ -13,7 +13,7 @@ Welcome to my Github page! I am Zhang Zhangyue and I am currently finishing my I
 #### 🌱 Things I am currently working on: 
 - Finish my Information Security Bachelor Degree  
 - Taking online courses about Program Analysis and Machine Learning 
-- Writing some codes related to [soot and flowdroid](https://github.com/yatooimh/soot-flowdroid-demo) 🚀 *coming soon*
+- Writing some codes related to [soot and flowdroid](https://github.com/yatooimh/HybridFrameworkDetect) 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
